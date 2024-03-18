@@ -1,4 +1,4 @@
-package learning.scala.basics
+package basics
 
 object InstructionsAndVariablesAndLoops {
 

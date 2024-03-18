@@ -1,4 +1,4 @@
-package learning.scala.basics
+package basics
 
 object StringInterpolation {
     // Strings = 0-indexed

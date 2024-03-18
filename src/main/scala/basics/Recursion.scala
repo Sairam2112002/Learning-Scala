@@ -1,4 +1,4 @@
-package learning.scala.basics
+package basics
 
 object Recursion {
     // Recursion - A mechanism by which a function can refer to itself

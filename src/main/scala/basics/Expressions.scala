@@ -1,4 +1,4 @@
-package learning.scala.basics
+package basics
 
 object Expressions {
     def main(args: Array[String]): Unit = {

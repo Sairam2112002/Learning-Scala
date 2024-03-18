@@ -1,4 +1,4 @@
-package learning.scala.oop
+package oop
 
 object OOPBasics {
 
