@@ -15,7 +15,7 @@ object MethodNotations {
         }
 
         /**
-         * "apply" is a special method in Scala that can any no of and any type of parameters and can be called without the method name i.e "apply"
+         * "apply" is a special method in Scala that can have any no of and any type of parameters and can be called without the method name i.e "apply"
          * "apply" method can be overloaded
          */
         def apply(programmingLanguage: String): Unit = {
